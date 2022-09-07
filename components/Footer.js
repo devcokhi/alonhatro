@@ -4,8 +4,8 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <p>ALO NHÀ TRỌ</p>
-        <p>Alo Nhà Trọ - Kênh thông tin cho thuê bất động sản uy tín</p>
+        ALO NHÀ TRỌ
+        Địa chỉ: 3/9A Đường số 6, F.9, Q.Gò Vấp, TP.HCM Điện thoại: 0908.433530 Website: alonhatro.com - Email: hotro@alonhatro.com
       </footer>
     </>
   )
