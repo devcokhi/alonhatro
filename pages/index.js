@@ -48,7 +48,17 @@ export default function Home() {
 <h2>Alo Nhà Trọ - Kênh thông tin cho thuê bất động sản uy tín</h2>
 <p>Để có thể thu được lợi nhuận từ việc <strong>cho thuê bất động sản</strong>, chắc chắn không thể thiếu được khách hàng. Vậy một câu hỏi là tìm nguồn khách hàng ở đâu? Câu trả lời chính là Alo Nhà Trọ. Đây là kênh thông tin cho thuê bất động kết nối người cho thuê và người cần thuê. Khách hàng có thể đăng tải thông tin miễn phí trên trang web. Chỉ cần đầy đủ thông tin hình ảnh, đợi admin phê duyệt là sản phẩm của bạn sẽ được lên kệ. Với hơn 1 triệu lượng truy cập mỗi tháng, bạn có thể tiếp cận được với khách hàng mục tiêu với số lượng lớn. Về phía khách cho nhu cầu thuê, với hơn 20 nghìn bài đăng mỗi tháng, bạn có thể đa dạng sự lựa chọn.</p>
 <p>Qua bài viết trên, hy vọng bạn đã trang bị được phần nào chút kinh nghiệm để đầu tư cho thuê bất động sản. <a href="https://alonhatro.com/">Alo Nhà Trọ</a> sẽ cùng đồng hành hỗ trợ các nhà đầu tư để kết nối với khách hàng tiềm năng.</p> 
-       
+     <div class="col-lg-6 font15">
+				<div>Thời gian làm việc</div>
+<p>Thứ Hai - Thứ Sáu: 08:00–19:00</p>
+<p>Thứ Bảy: 08:00–19:00</p>
+<p>Chủ Nhật: Đóng cửa</p>
+<div><label>Địa chỉ: 3/9A Đường số 6, F.9, Q.Gò Vấp, TP.HCM</label></div>
+<div><label>Điện thoại:&nbsp;0908.433.530</label></div>
+<div><label>Website: <a href="https://alonhatro.com" rel="nofollow">alonhatro.com</a>&nbsp;</label></div>
+<div><label>Email: <a href="mailto:hotro@alonhatro.com" rel="nofollow">hotro@alonhatro.com</a></label></div>
+<div ><iframe width="300" height="150" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.5455774067195!2d106.65360331532503!3d10.846045992274345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175296f2d27de79%3A0x52926335c53c78b5!2zQWxvIE5ow6AgVHLhu40!5e0!3m2!1svi!2s!4v1577581063366!5m2!1svi!2s" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+      </div>  
       </main>
 
       <Footer />
