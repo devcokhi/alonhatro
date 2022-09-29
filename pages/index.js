@@ -15,7 +15,7 @@ export default function Home() {
         <h1 class="title">Kênh thông tin cho thuê bất động sản nhà trọ, phòng trọ hàng đầu Việt Nam - Alo Nhà trọ</h1>
         <blockquote><p>Kinh doanh <strong>cho thuê bất động sản</strong> là sự lựa chọn tốt để tạo ra dòng tiền thông minh. Từ số vốn nhỏ, thậm chí bằng 0, các nhà đầu tư hoàn toàn có thể có một nguồn lợi đều đặn và vô cùng lớn. Cùng <a href="https://alonhatro.com/">Alo Nhà Trọ</a> tìm hiều bất động  sản cho thuê </p></blockquote>
         <figure >
-          <img src="https://alonhatro.com/assets/data/res/alonhatro-website.png" alt="Kênh thông tin cho thuê bất động sản nhà trọ, phòng trọ hàng đầu Việt Nam - Alo Nhà trọ" >
+          <img src="https://alonhatro.com/assets/data/res/alonhatro-website.png" alt="Kênh thông tin cho thuê bất động sản nhà trọ, phòng trọ hàng đầu Việt Nam - Alo Nhà trọ" />
         </figure>
         <h2>Bất động sản cho thuê là gì?</h2>
         <p>Bất động sản cho thuê là mô hình kinh doanh thuê - thuê lại. Nghĩa là chủ đầu tư sẽ đi thuê nhà, căn hộ, chung cư, biệt thự,...tái tạo lại để cho người khác thuê và thu lợi nhuận từ khoản chênh.</p>
